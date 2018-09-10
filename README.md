@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/onlyloveyd/JuheNews.svg?branch=master)](https://travis-ci.org/onlyloveyd/JuheNews) ![](https://img.shields.io/badge/language-java-orange.svg) ![](https://img.shields.io/badge/%E7%89%88%E6%9C%AC-v1.1-yellow.svg) [![API](https://img.shields.io/badge/API-16%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=16)
+![](https://img.shields.io/badge/language-java-orange.svg) ![](https://img.shields.io/badge/%E7%89%88%E6%9C%AC-v1.1-yellow.svg) [![API](https://img.shields.io/badge/API-16%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=16)
 # 聚闻
 ![icon](/app/src/main/res/mipmap-xxhdpi/ic_launcher.png "")
 
@@ -44,7 +44,6 @@
 * [CSDN](http://blog.csdn.net/poorkick)
 * [Website](http://www.onlyloveyd.cn/)
 * [掘金](https://juejin.im/user/583e860867f356006bbedb90)
-* ![个人公众号](/app/src/main/res/mipmap-xxhdpi/qrcode.jpg "")
 
 ## 效果图
 ![实际效果图](/screenshot/Screenshot_1495788428.png "")![实际效果图](/screenshot/Screenshot_1495788432.png "")
